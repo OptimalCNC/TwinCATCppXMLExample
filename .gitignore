@@ -1,0 +1,16 @@
+.vs
+_Boot/
+_CompileInfo/
+_Libraries/
+_ModuleInstall/
+_Config/
+_Deployment/
+_Boot/
+_CompileInfo/
+_CompileInfo_Upload/
+_Libraries/
+VSSettings/
+
+_Repository/
+
+*.bak

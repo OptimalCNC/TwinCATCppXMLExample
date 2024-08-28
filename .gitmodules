@@ -1,0 +1,3 @@
+[submodule "XMLParser/tinyxml2/extern/tinyxml2"]
+	path = XMLParser/tinyxml2/extern/tinyxml2
+	url = https://github.com/huweiATgithub/tinyxml2.git
